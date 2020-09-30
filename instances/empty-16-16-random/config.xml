@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<root>
+	<algorithm>
+		<connectedness>3</connectedness>
+		<use_cardinal>1</use_cardinal>
+		<agent_size>0.353553</agent_size>
+		<timelimit>30</timelimit>
+		<focal_weight>1.0</focal_weight>
+	</algorithm>
+</root>
