@@ -36,6 +36,7 @@
 *.out
 *.app
 .DS_Store
+*_log.xml
 
 ### Code ###
 .vscode/
